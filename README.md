@@ -87,7 +87,7 @@
 |No|   Title   |    DOI    |  Journal  |
 |--|-----------|-----------|-----------|
 |01| [*Extraction of association rules using big data technologies (2016)*](https://doi.org/10.2495/DNE-V11-N3-178-185) |   <a href="https://doi.org/10.2495/DNE-V11-N3-178-185" target="_blank"><img alt="DOI" width ='700px' src="https://img.shields.io/badge/DOI:-10.2495/DNE&#8208;V11&#8208;N3&#8208;178&#8208;185-0099ff??style=fflat-square&labelColor=FFD43B"></a> | **[International Journal of Design & Nature and Ecodynamics](https://www.witpress.com/elibrary/dne/11/3/1189)** |
-|01| [*Finding tendencies in streaming data using big data frequent itemset mining (2019)*](https://doi.org/10.1016/j.knosys.2018.09.026) |<a href="https://doi.org/10.1016/j.knosys.2018.09.026" target="_blank"><img alt="DOI" width ='700px' src="https://img.shields.io/badge/DOI:-10.1016/j.knosys.2018.09.026-0099ff?style=fflat-square&labelColor=FFD43B"></a> |**[Knowledge-Based Systems](https://www.sciencedirect.com/journal/knowledge-based-systems)** |
+|02| [*Finding tendencies in streaming data using big data frequent itemset mining (2019)*](https://doi.org/10.1016/j.knosys.2018.09.026) |<a href="https://doi.org/10.1016/j.knosys.2018.09.026" target="_blank"><img alt="DOI" width ='700px' src="https://img.shields.io/badge/DOI:-10.1016/j.knosys.2018.09.026-0099ff?style=fflat-square&labelColor=FFD43B"></a> |**[Knowledge-Based Systems](https://www.sciencedirect.com/journal/knowledge-based-systems)** |
 
     
 <br>  
@@ -103,11 +103,7 @@
 📖 Book Chapter
 |No|  Title  |  DOI  | Book Chapter |
 |--|---------|-------|--------------|
-|01| [*Actitudes y formación sobre inclusión de los docentes universitarios (2017)*](http://digital.casalini.it/5242383) | 
-<a href="http://digital.casalini.it/5242383" target="_blank"><img alt="DOI" width ='600px'
-src="https://img.shields.io/badge/DOI:-10.1007/978&#8722;3&#8722;319&#8722;49568&#8722;2&#95;3-0099ff?style=ffl
-at-square&labelColor=FFD43B"></a> | **[Actitudes y formación sobre inclusión de los docentes universitarios]
-(https://www.torrossa.com/en/resources/an/5242383)** |    
+|01| [*Actitudes y formación sobre inclusión de los docentes universitarios (2017)*](http://digital.casalini.it/5242383) | <a href="http://digital.casalini.it/5242383" target="_blank"><img alt="DOI" width ='600px'src="https://img.shields.io/badge/DOI:-10.1007/978&#8722;3&#8722;319&#8722;49568&#8722;2&#95;3-0099ff?style=fflat-square&labelColor=FFD43B"></a> | **[Actitudes y formación sobre inclusión de los docentes universitarios](https://www.torrossa.com/en/resources/an/5242383)** |    
     
     
     
