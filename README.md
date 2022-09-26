@@ -39,6 +39,15 @@
 
 
 ##### NOW
-- <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="28"> Currently working on developing new Big Data algorithms for autonomous pattern recognition and  XAI
+- <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="28"> 
+He is currently working on the development of new Big Data algorithms for pattern recognition in medical applications.
+In addition, at UCL he is working on explainability models in AI (XAI) and automatic causality and blame analysis using NLP.
 
 #### BIO
+
+- 🏢 PostDoc at **University college London**, London, UK
+- 🔭 Area of interest is in <img src="https://img.shields.io/badge/Big Data-blue">,<img src="https://img.shields.io/badge/NLP-green"> and <img src="https://img.shields.io/badge/XAI-red">
+- 🎯 Specifically interested in finding hidden patterns,relationship extraction in nlp,  rules and knowledge from a dataset.
+- 🌱 Learning all about <img src="https://img.shields.io/badge/Deep Learning-brown">
+- <img align ='center' width ='27' src='https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif'> Looking to collaborate on *Open Source Projects* on <img src="https://img.shields.io/badge/Machine Learning-blue">
+
