@@ -5,7 +5,7 @@
 
 
 <h3 align="center"> 
-    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="21"></a> Hi, I'am Carlos! A passionate Researcher - Data Science & Machine Learning <img align="center" alt="GIF" width="30"  src="https://media.giphy.com/media/3oKIPEqDGUULpEU0aQ/giphy.gif" width="36"/>
+    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="21"></a> Hi, I'm Carlos! A passionate Researcher - Data Science & Machine Learning <img align="center" alt="GIF" width="30"  src="https://media.giphy.com/media/3oKIPEqDGUULpEU0aQ/giphy.gif" width="36"/>
 </h3> 
 
 <p align="center">   
@@ -83,8 +83,8 @@ Reach me: <a href="mailto:cjferba@decsai.ugr.es" target="_blank"><img alt="GitHu
      
 |No|   Title   |    DOI    |  Journal  |
 |--|-----------|-----------|-----------|
-|01| [*Extraction of association rules using big data technologies (2016)*](https://doi.org/10.2495/DNE-V11-N3-178-185) |   <a href="https://doi.org/10.2495/DNE-V11-N3-178-185" target="_blank"><img alt="DOI" width ='700px' src="https://img.shields.io/badge/DOI:-10.1155/2021/6666619-0099ff?style=fflat-square&labelColor=FFD43B"></a> | **[International Journal of Design & Nature and Ecodynamics](https://www.witpress.com/elibrary/dne/11/3/1189)** |
-|01| [*Finding tendencies in streaming data using big data frequent itemset mining (2019)*](https://doi.org/10.1016/j.knosys.2018.09.026) |<a href="https://doi.org/10.1016/j.knosys.2018.09.026" target="_blank"><img alt="DOI" width ='700px' src="https://img.shields.io/badge/DOI:-10.1155/2021/6666619-0099ff?style=fflat-square&labelColor=FFD43B"></a> |**[Knowledge-Based Systems](https://www.sciencedirect.com/journal/knowledge-based-systems)** |
+|01| [*Extraction of association rules using big data technologies (2016)*](https://doi.org/10.2495/DNE-V11-N3-178-185) |   <a href="https://doi.org/10.2495/DNE-V11-N3-178-185" target="_blank"><img alt="DOI" width ='700px' src="https://img.shields.io/badge/DOI:-10.2495/DNE&#8208;V11&#8208;N3&#8208;178&#8208;185-0099ff??style=fflat-square&labelColor=FFD43B"></a> | **[International Journal of Design & Nature and Ecodynamics](https://www.witpress.com/elibrary/dne/11/3/1189)** |
+|01| [*Finding tendencies in streaming data using big data frequent itemset mining (2019)*](https://doi.org/10.1016/j.knosys.2018.09.026) |<a href="https://doi.org/10.1016/j.knosys.2018.09.026" target="_blank"><img alt="DOI" width ='700px' src="https://img.shields.io/badge/DOI:-10.1016/j.knosys.2018.09.026-0099ff?style=fflat-square&labelColor=FFD43B"></a> |**[Knowledge-Based Systems](https://www.sciencedirect.com/journal/knowledge-based-systems)** |
 
     
 <br>  
