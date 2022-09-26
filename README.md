@@ -84,11 +84,11 @@
     
 📜Journal Articles
      
-|No|   Title   |    DOI    |  Journal  |
-|--|-----------|-----------|-----------|
-|01| [*Extraction of association rules using big data technologies (2016)*](https://doi.org/10.2495/DNE-V11-N3-178-185) |   <a href="https://doi.org/10.2495/DNE-V11-N3-178-185" target="_blank"><img alt="DOI" width ='700px' src="https://img.shields.io/badge/DOI:-10.2495/DNE&#8208;V11&#8208;N3&#8208;178&#8208;185-0099ff??style=fflat-square&labelColor=FFD43B"></a> | **[International Journal of Design & Nature and Ecodynamics](https://www.witpress.com/elibrary/dne/11/3/1189)** |
-|02| [*Finding tendencies in streaming data using big data frequent itemset mining (2019)*](https://doi.org/10.1016/j.knosys.2018.09.026) |<a href="https://doi.org/10.1016/j.knosys.2018.09.026" target="_blank"><img alt="DOI" width ='700px' src="https://img.shields.io/badge/DOI:-10.1016/j.knosys.2018.09.026-0099ff?style=fflat-square&labelColor=FFD43B"></a> |**[Knowledge-Based Systems](https://www.sciencedirect.com/journal/knowledge-based-systems)** |
-
+|No|   Title   |    DOI    |  Journal  |  Quartile JCR  |
+|--|-----------|-----------|-----------|-----------|
+|01| [*Extraction of association rules using big data technologies (2016)*](https://doi.org/10.2495/DNE-V11-N3-178-185) |   <a href="https://doi.org/10.2495/DNE-V11-N3-178-185" target="_blank"><img alt="DOI" width ='700px' src="https://img.shields.io/badge/DOI:-10.2495/DNE&#8208;V11&#8208;N3&#8208;178&#8208;185-0099ff??style=fflat-square&labelColor=FFD43B"></a> | **[International Journal of Design & Nature and Ecodynamics](https://www.witpress.com/elibrary/dne/11/3/1189)** | -
+|02| [*Finding tendencies in streaming data using big data frequent itemset mining (2019)*](https://doi.org/10.1016/j.knosys.2018.09.026) |<a href="https://doi.org/10.1016/j.knosys.2018.09.026" target="_blank"><img alt="DOI" width ='700px' src="https://img.shields.io/badge/DOI:-10.1016/j.knosys.2018.09.026-0099ff?style=fflat-square&labelColor=FFD43B"></a> |**[Knowledge-Based Systems](https://www.sciencedirect.com/journal/knowledge-based-systems)** | Q1
+|03| [*A probabilistic algorithm for predictive control with full-complexity models in non-residential buildings (2019)*](https://doi.org/10.1016/j.knosys.2018.09.026) |<a href="https://doi.org/10.1109/ACCESS.2019.2906311" target="_blank"><img alt="DOI" width ='700px' src="https://img.shields.io/badge/DOI:-10.1109/ACCESS.2019.2906311ff?style=fflat-square&labelColor=FFD43B"></a> |**[IEEE Access](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6287639)** | Q1
     
 <br>  
     
