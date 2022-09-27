@@ -89,7 +89,11 @@
 |01| [*Extraction of association rules using big data technologies (2016)*](https://doi.org/10.2495/DNE-V11-N3-178-185) |   <a href="https://doi.org/10.2495/DNE-V11-N3-178-185" target="_blank"><img alt="DOI" width ='700px' src="https://img.shields.io/badge/DOI:-10.2495/DNE&#8208;V11&#8208;N3&#8208;178&#8208;185-0099ff??style=fflat-square&labelColor=FFD43B"></a> | **[International Journal of Design & Nature and Ecodynamics](https://www.witpress.com/elibrary/dne/11/3/1189)** | -
 |02| [*Finding tendencies in streaming data using big data frequent itemset mining (2019)*](https://doi.org/10.1016/j.knosys.2018.09.026) |<a href="https://doi.org/10.1016/j.knosys.2018.09.026" target="_blank"><img alt="DOI" width ='700px' src="https://img.shields.io/badge/DOI:-10.1016/j.knosys.2018.09.026-0099ff?style=fflat-square&labelColor=FFD43B"></a> |**[Knowledge-Based Systems](https://www.sciencedirect.com/journal/knowledge-based-systems)** | Q1
 |03| [*A probabilistic algorithm for predictive control with full-complexity models in non-residential buildings (2019)*](https://doi.org/10.1109/ACCESS.2019.2906311) |<a href="https://doi.org/10.1109/ACCESS.2019.2906311" target="_blank"><img alt="DOI" width ='700px' src="https://img.shields.io/badge/DOI:-10.1109/ACCESS.2019.2906311-0099ff?style=fflat-square&labelColor=FFD43B"></a> |**[IEEE Access](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6287639)** | Q1
-    
+|04| [*A Fuzzy Mining Approach for Energy Efficiency in a Big Data Framework (2020)*](https://doi.org/10.1109/TFUZZ.2020.2992180) |<a href="https://doi.org/10.1109/TFUZZ.2020.2992180" target="_blank"><img alt="DOI" width ='700px' src="https://img.shields.io/badge/DOI:-10.1109/TFUZZ.2020.2992180-0099ff?style=fflat-square&labelColor=FFD43B"></a> |**[IEEE Transactions on Fuzzy Systems](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=91)** | Q1
+|05| [*Spark solutions for discovering fuzzy association rules in Big Data (2021)*](https://doi.org/10.1016/j.ijar.2021.07.004) |<a href="https://doi.org/10.1016/j.ijar.2021.07.004" target="_blank"><img alt="DOI" width ='700px' src="https://img.shields.io/badge/DOI:-10.1016/j.ijar.2021.07.004-0099ff?style=fflat-square&labelColor=FFD43B"></a> |**[
+International Journal of Approximate Reasoning](https://www.sciencedirect.com/journal/international-journal-of-approximate-reasoning)** | Q2  
+  
+  
 <br>  
     
 📃 Conference Proceedings
