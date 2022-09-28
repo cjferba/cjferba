@@ -120,9 +120,7 @@
 <p align="center">
     <img height="140em" src="https://github-readme-stats.vercel.app/api?username=cjferba&count_private=true&theme=radical&show_icons=true" alt="Carlos' Github readme stats">
     <img height="140em" src="http://github-readme-streak-stats.herokuapp.com?user=cjferba&&theme=radical&show_icons=true" alt="cjferba"/>
-   
-    <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=cjferba&count_private=true&repo=github-readme-stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=cjferba&count_private=true&repo=vercel" />
 </a>
 </p>
     
