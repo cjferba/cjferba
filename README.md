@@ -116,9 +116,10 @@
 
 <details>
 <summary><samp>&#9776;</samp> Click for GitHub Stats <i>(click to expand)</i> </summary>
+
 <p align="center">
-    <img height="140em" src="https://github-readme-stats.vercel.app/api?username=cjferba&theme=jolly&show_icons=true" alt="Carlos' Github readme stats">
-    <img height="140em" src="http://github-readme-streak-stats.herokuapp.com?user=cjferba&&theme=jolly&show_icons=true" alt="cjferba"/>
+    <img height="140em" src="https://github-readme-stats.vercel.app/api?username=cjferba&count_private=true&theme=jolly&show_icons=true" alt="Carlos' Github readme stats">
+    <img height="140em" src="http://github-readme-streak-stats.herokuapp.com?user=cjferba&count_private=true&&theme=jolly&show_icons=true" alt="cjferba"/>
 </p>
 </details>
 
